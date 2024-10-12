@@ -1,6 +1,6 @@
-# 💻 Hola, soy Nataly | Desarrolladora Frontend
+# 💻 Hola, soy Nataly
 
-**¡Bienvenido a mi GitHub!** 👋 Soy desarrolladora frontend con enfoque en la creación de interfaces dinámicas e intuitivas que ofrezcan una excelente experiencia a los usuarios.
+**¡Bienvenido a mi GitHub!** 👋 Soy **desarrolladora frontend** con enfoque en la creación de interfaces dinámicas e intuitivas que ofrezcan una excelente experiencia a los usuarios.
 
 ### 🔗 [Portafolio](https://nattdev.github.io/)
 
@@ -11,7 +11,7 @@
 - **Herramientas de Construcción:** Vite, Angular CLI, Webpack
 - **Otros:** REST APIs, JSON, Diseño Responsivo, Accesibilidad Web  
 
-## 💡 Mi Enfoque
+## 🛠️ Mi Estilo de Desarrollo
 Priorizo un código limpio y reutilizable, y sigo las mejores prácticas, como el diseño responsivo, la accesibilidad , la optimización del rendimiento y el manejo de control de versiones con Git. Me encanta aprender constantemente nuevas tecnologías.
 
 ## 🌱 Aprendiendo Actualmente
